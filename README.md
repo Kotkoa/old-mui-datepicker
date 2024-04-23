@@ -30,7 +30,7 @@ old-mui-datepicker/
 Clone the repository to your local machine:
 
 ```bash
-git clone https://yourrepository.git
+git clone https://github.com/Kotkoa/old-mui-datepicker.git
 cd old-mui-datepicker
 npm install
 ```

@@ -2,6 +2,8 @@
 
 This application utilizes Material-UI version 0.17.2 to implement a dual DatePicker component, where the selection of a date in the first picker determines the month and year shown in the second picker, but without pre-setting the specific date.
 
+![MUI Calendar App Screenshot](https://github.com/Kotkoa/old-mui-datepicker/blob/main/Screenshot%202024-04-29%20at%2021.52.05.png)
+
 ## Features
 
 - Two interconnected DatePickers.
